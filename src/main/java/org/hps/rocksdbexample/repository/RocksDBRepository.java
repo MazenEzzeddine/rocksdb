@@ -1,4 +1,4 @@
-package com.ukchukx.rocksdbexample.repository;
+package org.hps.rocksdbexample.repository;
 
 import lombok.extern.slf4j.Slf4j;
 import org.rocksdb.Options;

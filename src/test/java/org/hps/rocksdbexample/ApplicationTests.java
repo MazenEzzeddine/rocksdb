@@ -1,4 +1,4 @@
-package com.ukchukx.rocksdbexample;
+package org.hps.rocksdbexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

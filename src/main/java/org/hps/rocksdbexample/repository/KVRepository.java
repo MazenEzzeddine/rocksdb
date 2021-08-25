@@ -1,4 +1,4 @@
-package com.ukchukx.rocksdbexample.repository;
+package org.hps.rocksdbexample.repository;
 
 import java.util.Optional;
 

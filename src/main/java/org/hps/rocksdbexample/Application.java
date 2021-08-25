@@ -1,4 +1,4 @@
-package com.ukchukx.rocksdbexample;
+package org.hps.rocksdbexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
